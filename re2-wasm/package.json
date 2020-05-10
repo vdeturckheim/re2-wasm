@@ -1,0 +1,19 @@
+{
+  "name": "re2-wasm",
+  "version": "0.1.0",
+  "description": "re2 as a wasm library for Node.js and browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vdeturckheim/re2-wasm.git"
+  },
+  "author": "vdeturckheim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/re2-wasm/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/re2-wasm#readme"
+}
